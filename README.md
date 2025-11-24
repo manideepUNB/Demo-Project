@@ -36,8 +36,8 @@ Follow these steps to run the project on your local machine.
 ### Steps
 1.  **Clone the Repository**:
     ```bash
-    git clone <your-repo-url>
-    cd <repo-name>
+    https://github.com/manideepUNB/Demo-Project.git
+    cd Demo-Project
     ```
 
 2.  **Compile the Code**:
