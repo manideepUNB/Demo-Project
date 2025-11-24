@@ -1,0 +1,18 @@
+# Build directories
+build/
+cmake-build-debug/
+cmake-build-release/
+
+# Executables
+ray_tracer
+task_scheduler
+*.exe
+*.out
+
+# Output images
+# (Both image.ppm and output_sample.png will be tracked)
+
+# System files
+.DS_Store
+.vscode/
+.idea/
